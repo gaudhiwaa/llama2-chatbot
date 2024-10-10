@@ -4,7 +4,7 @@
 
 # ⚙️ Installation
 
-1. Download the **llama-2-7b-chat.ggmlv3.q8_0.bin** here [huggingface-llama2](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main). Make sure you 
+1. Download the **llama-2-7b-chat.ggmlv3.q8_0.bin** here [huggingface-llama2](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main).
    
 2. Then make a folder named **models**, and put the llama2 model inside.
    
