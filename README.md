@@ -1,8 +1,8 @@
-# Llama2 Chatbot
+# 🦙 Llama2 Chatbot
 
 ![image](https://github.com/user-attachments/assets/c69692d3-3d86-4549-866e-f0ab287a2b7a)
 
-# Guide
+# ⚙️ Installation
 
 1. Download the **llama-2-7b-chat.ggmlv3.q8_0.bin** here [huggingface-llama2](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main). Make sure you 
    
